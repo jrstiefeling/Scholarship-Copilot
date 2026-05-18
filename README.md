@@ -26,6 +26,19 @@ export ANTHROPIC_API_KEY="REPLACE_ME"
    - `config/profile.json` with real student data
    - `config/google_ids.json` with your sheet/folder IDs (or run `src/google_setup.py` first)
 
+## Preflight check (recommended)
+
+Run this before any workflow script:
+
+```bash
+python src/preflight.py
+```
+
+It validates:
+- required environment variables
+- required local credential files
+- placeholder config values that still need real values
+
 ## Notes on security
 
 - The repository intentionally excludes `credentials/` via `.gitignore`.
