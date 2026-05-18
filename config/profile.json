@@ -1,70 +1,56 @@
 {
   "student": {
-    "first_name": "Penelope",
-    "last_name": "",
-    "email": "",
-    "phone": "",
-    "date_of_birth": "",
+    "first_name": "STUDENT_FIRST_NAME",
+    "last_name": "STUDENT_LAST_NAME",
+    "email": "student@example.com",
+    "phone": "555-555-5555",
+    "date_of_birth": "YYYY-MM-DD",
     "grade": "Junior (11th)",
-    "graduation_year": 2026
+    "graduation_year": 2027
   },
   "school": {
-    "name": "Los Osos High School",
-    "city": "Rancho Cucamonga",
-    "county": "San Bernardino",
+    "name": "EXAMPLE HIGH SCHOOL",
+    "city": "EXAMPLE CITY",
+    "county": "EXAMPLE COUNTY",
     "state": "California",
-    "district": "Alta Loma School District",
-    "counselor_name": "",
-    "counselor_email": ""
+    "district": "EXAMPLE DISTRICT",
+    "counselor_name": "COUNSELOR_NAME",
+    "counselor_email": "counselor@example.org"
   },
   "academics": {
-    "gpa_unweighted": null,
-    "gpa_weighted": 4.3,
-    "class_rank": "",
-    "sat_score": null,
+    "gpa_unweighted": 3.8,
+    "gpa_weighted": 4.2,
+    "class_rank": "Top 10%",
+    "sat_score": 1400,
     "act_score": null,
-    "ap_courses": [],
-    "honors_courses": [],
-    "intended_major": "Advertising",
-    "intended_college_type": ""
+    "ap_courses": ["AP English Language", "AP US History"],
+    "honors_courses": ["Honors Biology"],
+    "intended_major": "Communications",
+    "intended_college_type": "4-year university"
   },
   "extracurriculars": [
     {
-      "activity": "Yearbook",
-      "role": "Vice Editor",
-      "years_involved": null,
-      "hours_per_week": null,
-      "description": "Assists in editing and producing the school yearbook; responsible for layout, photography curation, and editorial decisions."
-    },
-    {
-      "activity": "Photos with Purpose",
-      "role": "Club President",
-      "years_involved": null,
-      "hours_per_week": null,
-      "description": "Leads a club that uses photography as a tool for social impact and storytelling in the community."
-    },
-    {
-      "activity": "California Scholarship Federation (CSF)",
-      "role": "Member",
-      "years_involved": null,
-      "hours_per_week": null,
-      "description": "Academic honor society recognising students with outstanding GPA and commitment to scholarship and service."
+      "activity": "Student Newspaper",
+      "role": "Editor",
+      "years_involved": 2,
+      "hours_per_week": 5,
+      "description": "Leads editorial calendar and student journalism projects."
     }
   ],
   "community_service": [
     {
-      "organization": "Alara Senior Living",
-      "role": "Activity Assistant",
-      "total_hours": null,
-      "description": "Volunteers as an activity assistant at a senior living facility, engaging residents in social and recreational activities."
+      "organization": "Local Community Center",
+      "role": "Volunteer Tutor",
+      "total_hours": 80,
+      "description": "Supports younger students with reading and writing."
     }
   ],
   "awards_and_honors": [
     {
-      "title": "California Scholarship Federation (CSF) Member",
-      "year": null,
-      "issuing_organization": "California Scholarship Federation",
-      "description": "Recognised for academic excellence and community service."
+      "title": "Honor Roll",
+      "year": 2025,
+      "issuing_organization": "EXAMPLE HIGH SCHOOL",
+      "description": "Academic recognition for high GPA."
     }
   ],
   "work_experience": [],
@@ -72,40 +58,28 @@
     "languages_spoken": ["English"],
     "first_generation_college_student": false,
     "financial_need": false,
-    "household_income_range": "250000+",
-    "ethnicity": "Caucasian",
-    "gender": "Female",
-    "sexual_orientation": "Gay (LGBTQ+)",
+    "household_income_range": "PREFER_NOT_TO_DISCLOSE",
+    "ethnicity": "PREFER_NOT_TO_DISCLOSE",
+    "gender": "PREFER_NOT_TO_DISCLOSE",
+    "sexual_orientation": "PREFER_NOT_TO_DISCLOSE",
     "us_citizen_or_permanent_resident": true,
     "california_resident": true,
-    "rancho_cucamonga_resident": true
+    "rancho_cucamonga_resident": false
   },
   "essay_themes": {
-    "core_values": [
-      "visual storytelling",
-      "community connection",
-      "creativity",
-      "service",
-      "authenticity",
-      "LGBTQ+ advocacy"
-    ],
-    "defining_experiences": [
-      "Leading Photos with Purpose — using photography to give voice to underrepresented stories",
-      "Volunteering with seniors at Alara Senior Living — bridging generations through presence and care",
-      "Shaping the school's visual narrative as Yearbook Vice Editor",
-      "Navigating identity as a gay young woman and channeling that into storytelling and creative work"
-    ],
-    "future_goals": "Pursue a career in advertising, combining visual storytelling and creative strategy to craft campaigns that are inclusive, authentic, and move people — particularly campaigns that represent LGBTQ+ voices and communities.",
-    "unique_story": "Penelope channels creativity into community — whether capturing meaningful moments through her camera, preserving school memories in the yearbook, or bringing joy to seniors. Her path to advertising is rooted in a genuine belief that images and stories can change how people see the world, and as a gay woman she brings a perspective on representation and authentic storytelling that is both personal and powerful.",
-    "challenges_overcome": "As a gay student, Penelope has navigated questions of identity and belonging during high school, channeling that experience into empathy-driven creative work and a commitment to amplifying underrepresented voices."
+    "core_values": ["service", "creativity", "leadership"],
+    "defining_experiences": ["Add 2-4 real experiences here."],
+    "future_goals": "Describe intended degree and career goals.",
+    "unique_story": "Write the personal narrative theme to use in essays.",
+    "challenges_overcome": "Describe adversity or growth experiences to emphasize."
   },
   "letters_of_recommendation": {
     "recommenders": [
       {
-        "name": "",
-        "title": "",
-        "relationship": "",
-        "email": ""
+        "name": "RECOMMENDER_NAME",
+        "title": "RECOMMENDER_TITLE",
+        "relationship": "Teacher",
+        "email": "recommender@example.org"
       }
     ]
   }
