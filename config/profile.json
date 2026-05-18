@@ -1,0 +1,112 @@
+{
+  "student": {
+    "first_name": "Penelope",
+    "last_name": "",
+    "email": "",
+    "phone": "",
+    "date_of_birth": "",
+    "grade": "Junior (11th)",
+    "graduation_year": 2026
+  },
+  "school": {
+    "name": "Los Osos High School",
+    "city": "Rancho Cucamonga",
+    "county": "San Bernardino",
+    "state": "California",
+    "district": "Alta Loma School District",
+    "counselor_name": "",
+    "counselor_email": ""
+  },
+  "academics": {
+    "gpa_unweighted": null,
+    "gpa_weighted": 4.3,
+    "class_rank": "",
+    "sat_score": null,
+    "act_score": null,
+    "ap_courses": [],
+    "honors_courses": [],
+    "intended_major": "Advertising",
+    "intended_college_type": ""
+  },
+  "extracurriculars": [
+    {
+      "activity": "Yearbook",
+      "role": "Vice Editor",
+      "years_involved": null,
+      "hours_per_week": null,
+      "description": "Assists in editing and producing the school yearbook; responsible for layout, photography curation, and editorial decisions."
+    },
+    {
+      "activity": "Photos with Purpose",
+      "role": "Club President",
+      "years_involved": null,
+      "hours_per_week": null,
+      "description": "Leads a club that uses photography as a tool for social impact and storytelling in the community."
+    },
+    {
+      "activity": "California Scholarship Federation (CSF)",
+      "role": "Member",
+      "years_involved": null,
+      "hours_per_week": null,
+      "description": "Academic honor society recognising students with outstanding GPA and commitment to scholarship and service."
+    }
+  ],
+  "community_service": [
+    {
+      "organization": "Alara Senior Living",
+      "role": "Activity Assistant",
+      "total_hours": null,
+      "description": "Volunteers as an activity assistant at a senior living facility, engaging residents in social and recreational activities."
+    }
+  ],
+  "awards_and_honors": [
+    {
+      "title": "California Scholarship Federation (CSF) Member",
+      "year": null,
+      "issuing_organization": "California Scholarship Federation",
+      "description": "Recognised for academic excellence and community service."
+    }
+  ],
+  "work_experience": [],
+  "personal": {
+    "languages_spoken": ["English"],
+    "first_generation_college_student": false,
+    "financial_need": false,
+    "household_income_range": "250000+",
+    "ethnicity": "Caucasian",
+    "gender": "Female",
+    "sexual_orientation": "Gay (LGBTQ+)",
+    "us_citizen_or_permanent_resident": true,
+    "california_resident": true,
+    "rancho_cucamonga_resident": true
+  },
+  "essay_themes": {
+    "core_values": [
+      "visual storytelling",
+      "community connection",
+      "creativity",
+      "service",
+      "authenticity",
+      "LGBTQ+ advocacy"
+    ],
+    "defining_experiences": [
+      "Leading Photos with Purpose — using photography to give voice to underrepresented stories",
+      "Volunteering with seniors at Alara Senior Living — bridging generations through presence and care",
+      "Shaping the school's visual narrative as Yearbook Vice Editor",
+      "Navigating identity as a gay young woman and channeling that into storytelling and creative work"
+    ],
+    "future_goals": "Pursue a career in advertising, combining visual storytelling and creative strategy to craft campaigns that are inclusive, authentic, and move people — particularly campaigns that represent LGBTQ+ voices and communities.",
+    "unique_story": "Penelope channels creativity into community — whether capturing meaningful moments through her camera, preserving school memories in the yearbook, or bringing joy to seniors. Her path to advertising is rooted in a genuine belief that images and stories can change how people see the world, and as a gay woman she brings a perspective on representation and authentic storytelling that is both personal and powerful.",
+    "challenges_overcome": "As a gay student, Penelope has navigated questions of identity and belonging during high school, channeling that experience into empathy-driven creative work and a commitment to amplifying underrepresented voices."
+  },
+  "letters_of_recommendation": {
+    "recommenders": [
+      {
+        "name": "",
+        "title": "",
+        "relationship": "",
+        "email": ""
+      }
+    ]
+  }
+}
